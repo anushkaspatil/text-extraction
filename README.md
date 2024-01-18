@@ -1,7 +1,8 @@
 # Text Extractor
 
 ## Goal
-The purpose of this project is to process images and PDF files to extract text using the OpenCV approach and Pytesseract exclusively.
+The purpose of this project is to process images and PDF files to extract text using the OpenCV approach and Pytesseract exclusively. 
+The code is added in the Jupyter notebook `text_extraction.ipynb`.
 
 ## User Story
 As a user, I should be able to easily process images and extract text from them using this tool.
